@@ -8,4 +8,4 @@ Modifications made:
 Javascript added to remove the wix banner.
 Favicon ico changed.
 
-The files in this repository are hosted on this website ""
+The files in this repository are hosted on this website "https://mhmatthewhugley.github.io/AFriendsWebsite/"
