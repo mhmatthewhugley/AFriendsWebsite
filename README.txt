@@ -9,4 +9,4 @@ Javascript added to remove the wix banner.
 Favicon ico changed.
 Directorys changed slightly
 
-The files in this repository are hosted on this website "https://mhmatthewhugley.github.io/AFriendsWebsite/"
+The files in this repository are hosted on this website "https://mhmatthewhugley.github.io/AFriendsWebsite/hannes.html"
